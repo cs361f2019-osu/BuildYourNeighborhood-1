@@ -1,5 +1,5 @@
 # BuildYourNeighborhood
-Build You Neighborhood is a Serious/Education Video Game developed by a team of 5: April James, Jacob Lagmay, Nathan Raymon, Lindy Voss, and Garrett Whitehurst
+Build You Neighborhood is a Serious/Educational Video Game developed by a team of 5: April James, Jacob Lagmay, Nathan Raymon, Lindy Voss, and Garrett Whitehurst
 The point of this project is to showcase an ecological, man-made landmass called the bioswale. If you're not familiar with what a bioswale is, it is basically something that is installed inbetween a road and something like a sidewalk or a parking. It soaks up the water from the raod and filters it through its mulch and soil to deliver clean water into the community's water supply.
 
 We convey the importance of the bioswale through gameplay. The player will take a block from a list of 4 blocks that is clearly displayed and pick a spot on a 5x5 grid to put that block. A score will be determined based on blocks in a surrounding area. In addition, there are 3 goals that are tied to the score, but will be shown independently so that the player can see how blocks can interact with each and affect the neighborhood they are building.
